@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EstebanZabala.
 - 👀 I’m interested in Frontend.
 - 🌱 I’m currently learning Node-Js and Angular.
-- 💞️ I’m looking to collaborate on a little proyect. 
 - 📫 How to reach me estebanzabalabrito21@gmail.com.
 
 <!---
